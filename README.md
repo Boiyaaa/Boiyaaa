@@ -1,24 +1,70 @@
-<h1 align="center">Hi 👋, I'm Yuanbo</h1>
+<h1 align="center">Hi 👋, I'm Yuanbo Tong</h1>
+<h3 align="center">🧠 AI Engineer | NLP & LLM Systems | RAG & CBR</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Master of Artificial Intelligence at University of Auckland
-- 🤖 Focus: MLLM
-- 🔬 Interested in: Model Optimization & AI Applications
+- 🎓 M.S. in Artificial Intelligence @ University of Auckland  
+- 🎓 B.S. in Computer Science @ Southwest University  
+- 📊 GPA: 7.75/9.0 (Master) | 3.0/4.0 (Bachelor)  
+- 🤖 Focus: NLP, Large Language Models, RAG Systems  
+- 🚀 Interested in: AI Applications, Model Optimization, Intelligent Systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,pytorch,tensorflow,sklearn" />
-</p>
+- **Languages:** Python, C/C++, Java  
+- **AI / ML:** PyTorch, Transformers (HuggingFace), Scikit-learn  
+- **NLP:** BERT, RoBERTa, DeBERTa, Text Embedding, Sentiment Analysis  
+- **LLM Techniques:** RAG, Prompt Engineering, Few-shot Learning, CoT, CBR  
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Frontend:** React, Echarts  
+- **Tools:** Git, Jupyter Notebook, VS Code  
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 Personality-Consistent LLM (Research @ UoA)
+
+- Built a **CBR-driven few-shot learning framework** for MBTI personality recognition  
+- Designed **style filtering model (RoBERTa)** to enhance training data consistency  
+- Fine-tuned **DeBERTa** as embedding encoder for Case-Based Reasoning  
+- Integrated **CoT + Self-Consistency** to improve reasoning stability  
+- 📈 Result: Improved personality consistency and response reliability  
+
+---
+
+### 🤖 Export Control QA Assistant (Project Leader)
+
+- Developed an **AI chatbot agent based on RAG architecture**  
+- Integrated **document retrieval + LLM (LLaMA / ChatGLM / GPT-4o)**  
+- Built full pipeline: document cleaning → vector indexing → retrieval → generation  
+- 📈 Achieved **82% accuracy** in real-world policy QA scenarios  
+- 💡 Application: regulatory decision support system  
+
+---
+
+### 📊 Novel Data Analysis Platform (Intern @ iFlytek)
+
+- Built full-stack AI system: **data crawling → analysis → visualization**  
+- Implemented **BERT-based sentiment analysis** on user reviews  
+- Developed **React + Echarts dashboard** for real-time insights  
+- 📈 Improved data accuracy via regex + cleaning pipeline  
+
+---
+
+### 🧬 GAHSAR: Privacy-Preserving Algorithm (Research Project)
+
+- Proposed **multi-objective genetic algorithm (NSGA-II based)**  
+- Optimized:
+  - Hidden Failure Rate (HF)  
+  - Missed Removal Rate (UM)  
+  - Artificial Pattern Rate (AP)  
+- Evaluated on datasets: Chess / Car / Mushroom  
+- 💡 Focus: Data privacy + evolutionary optimization  
 
 ---
 
@@ -31,30 +77,21 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boiyaaa&theme=tokyo-night" />
-</p>
+- 📧 Email: 836116040@qq.com  
 
 ---
 
-## 🏆 Goals
+## ⚡ Strengths
 
-- 🚀 Build impactful AI projects
-- 📚 Master deep learning & LLM systems
-- 💼 Land a top-tier AI internship
-
----
-
-## ⚡ Motto
-
-> "Code. Train. Optimize. Repeat."
+- End-to-end AI system development (data → model → deployment)  
+- Strong foundation in NLP and LLM-based systems  
+- Experience in **research + engineering + real-world applications**  
+- Fast learner with strong problem-solving ability  
 
 ---
 
-## 🐍 Contribution Snake
+## 🧭 Goal
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Boiyaaa/Boiyaaa/output/github-contribution-grid-snake.svg" />
-</p>
+> Build scalable and intelligent AI systems that solve real-world problems.
