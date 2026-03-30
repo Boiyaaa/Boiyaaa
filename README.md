@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Yuanbo 👋
 
 I build intelligent systems powered by LLMs.
 
@@ -22,10 +22,10 @@ Currently focused on **RAG**, **AI Agents**, and **Prompt Engineering** — maki
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true&icon_color=333&text_color=333" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Boiyaaa&show_icons=true&theme=default&hide_border=true&hide_title=true&icon_color=333&text_color=333" height="150" />
 
 ---
 
 ### Find me
 
-[Email](mailto:your@email.com) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [Twitter](https://twitter.com/YOUR_USERNAME) · [Blog](https://your-blog.com)
+[Email](mailto:yton558@aucklanduni.ac.nz)
