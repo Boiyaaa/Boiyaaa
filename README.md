@@ -1,31 +1,60 @@
-# Hey, I'm Yuanbo 👋
-
-I build intelligent systems powered by LLMs.
-
-Currently focused on **RAG**, **AI Agents**, and **Prompt Engineering** — making AI useful, not just impressive.
+<h1 align="center">Hi 👋, I'm Yuanbo</h1>
 
 ---
 
-### What I'm working on
+## 🧠 About Me
 
-- 🔭 Building AI-powered applications with real-world impact  
-- 🌱 Exploring multi-agent systems & reasoning models  
-- 💬 Ask me about LLMs, embeddings, and retrieval systems  
-
----
-
-### Tools I work with
-
-`Python` `LangChain` `OpenAI` `Claude API` `HuggingFace` `FastAPI` `PostgreSQL` `Pinecone` `Docker`
+- 🎓 Master of Artificial Intelligence at University of Auckland
+- 🤖 Focus: MLLM
+- 🔬 Interested in: Model Optimization & AI Applications
 
 ---
 
-### Stats
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=Boiyaaa&show_icons=true&theme=default&hide_border=true&hide_title=true&icon_color=333&text_color=333" height="150" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,pytorch,tensorflow,sklearn" />
+</p>
 
 ---
 
-### Find me
+## 🚀 Featured Projects
 
-[Email](mailto:yton558@aucklanduni.ac.nz)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boiyaaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boiyaaa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boiyaaa&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Goals
+
+- 🚀 Build impactful AI projects
+- 📚 Master deep learning & LLM systems
+- 💼 Land a top-tier AI internship
+
+---
+
+## ⚡ Motto
+
+> "Code. Train. Optimize. Repeat."
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Boiyaaa/Boiyaaa/output/github-contribution-grid-snake.svg" />
+</p>
