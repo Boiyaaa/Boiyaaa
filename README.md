@@ -12,7 +12,6 @@
 
 ---
 
----
 
 ## 🚀 Featured Projects
 
@@ -57,30 +56,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boiyaaa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boiyaaa&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contact
 
-- 📧 Email: 836116040@qq.com  
+- 📧 Email: 836116040@qq.com & yton558@aucklanduni.ac.nz
 
 ---
-
-## ⚡ Strengths
-
-- End-to-end AI system development (data → model → deployment)  
-- Strong foundation in NLP and LLM-based systems  
-- Experience in **research + engineering + real-world applications**  
-- Fast learner with strong problem-solving ability  
-
----
-
-## 🧭 Goal
-
-> Build scalable and intelligent AI systems that solve real-world problems.
