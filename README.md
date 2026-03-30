@@ -7,21 +7,10 @@
 
 - 🎓 M.S. in Artificial Intelligence @ University of Auckland  
 - 🎓 B.S. in Computer Science @ Southwest University  
-- 📊 GPA: 7.75/9.0 (Master) | 3.0/4.0 (Bachelor)  
 - 🤖 Focus: NLP, Large Language Models, RAG Systems  
 - 🚀 Interested in: AI Applications, Model Optimization, Intelligent Systems  
 
 ---
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, C/C++, Java  
-- **AI / ML:** PyTorch, Transformers (HuggingFace), Scikit-learn  
-- **NLP:** BERT, RoBERTa, DeBERTa, Text Embedding, Sentiment Analysis  
-- **LLM Techniques:** RAG, Prompt Engineering, Few-shot Learning, CoT, CBR  
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Frontend:** React, Echarts  
-- **Tools:** Git, Jupyter Notebook, VS Code  
 
 ---
 
